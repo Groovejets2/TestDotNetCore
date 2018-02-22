@@ -1,0 +1,11 @@
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.deps.json
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.runtimeconfig.json
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.runtimeconfig.dev.json
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.dll
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\bin\Debug\netcoreapp2.0\TestDotNetCore.pdb
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.csprojResolveAssemblyReference.cache
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.csproj.CoreCompileInputs.cache
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.AssemblyInfoInputs.cache
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.AssemblyInfo.cs
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.dll
+C:\Dev\_JHUGHES - GitHub\JONH - CSHARP.NET2017 - Gitflow Test\TestDotNetCore\obj\Debug\netcoreapp2.0\TestDotNetCore.pdb
