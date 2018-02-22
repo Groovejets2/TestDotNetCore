@@ -1,3 +1,5 @@
 /TestDotNetCore/bin
 /.vs/TestDotNetCore
 /.vs
+/TestDotNetCore/obj
+/TestDotNetCore/obj/Debug/netcoreapp2.0
